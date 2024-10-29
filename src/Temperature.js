@@ -5,13 +5,13 @@ export default function Temperature({ temperature }) {
     return (
         <div className="Temperature">
             <h2 id="temperature">{temperature}</h2>
-            <a href="#" class="active celsius">
+            <button href="#" class="active celsius">
                 °C
-            </a>{" "}
+            </button>{" "}
             |{" "}
-            <a href="#" class="fahrenheit">
+            <button href="#" class="fahrenheit">
                 °F
-            </a>
+            </button>
         </div>
     );
 }

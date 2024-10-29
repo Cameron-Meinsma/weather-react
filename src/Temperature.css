@@ -9,3 +9,11 @@
 .Temperature #weather-icon {
     margin: 0 0 0 -15px;
 }
+
+.celsius,
+.fahrenheit {
+    border: none;
+    background-color: transparent;
+    padding: none;
+    margin: none;
+}
