@@ -1,0 +1,18 @@
+.Search #current-location-button {
+    display: inline-block;
+    border: none;
+    border-radius: 25px;
+    background-color: black;
+    color: white;
+    height: 38.5px;
+    transition: all 125ms ease-in;
+}
+
+.Search #current-location-button:hover {
+    background-color: #424649;
+    cursor: pointer;
+}
+
+.Search form {
+    display: inline-block;
+}

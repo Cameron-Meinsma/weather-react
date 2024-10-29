@@ -1,0 +1,20 @@
+.Footer footer {
+    font-size: 11px;
+    text-align: center;
+    line-height: 275%;
+}
+
+.Footer .email,
+.Footer .github,
+.Footer .netlify {
+    text-decoration: none;
+    color: #a55dbb;
+    transition: all 150ms ease-in;
+}
+
+.Footer .email:hover,
+.Footer .github:hover,
+.Footer .netlify:hover {
+    cursor: pointer;
+    color: #9b9b9b;
+}

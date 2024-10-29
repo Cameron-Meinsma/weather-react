@@ -1,0 +1,20 @@
+.App body {
+    font-family: "Kanit", sans-serif, "Poppins";
+}
+
+.App .card {
+    border-radius: 15px;
+    margin: 5% auto auto;
+    padding: 10px;
+    max-width: 900px;
+    box-shadow: 6px 6px 10px 3px rgba(0, 0, 0, 0.1);
+    background: radial-gradient(
+        circle at 0% 0.5%,
+        rgb(241, 241, 242) 0.1%,
+        rgb(224, 226, 228) 100.2%
+    );
+}
+
+.App .location-temp {
+    text-align: left;
+}

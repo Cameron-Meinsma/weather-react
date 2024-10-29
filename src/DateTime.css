@@ -1,0 +1,21 @@
+.DateTime .day-time,
+.DateTime .wind-speed,
+.DateTime .weather-description {
+    text-align: right;
+}
+
+.DateTime .weather-description {
+    text-transform: capitalize;
+}
+
+.DateTime .wind-speed,
+.DateTime .weather-description {
+    line-height: 25%;
+    font-size: 16px;
+}
+
+.DateTime .day-time {
+    line-height: 200%;
+    font-size: 22px;
+    padding: 0 0 20px;
+}

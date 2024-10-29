@@ -1,0 +1,11 @@
+.Temperature h2 {
+    font-size: 25px;
+}
+
+.Temperature #temperature {
+    display: inline;
+}
+
+.Temperature #weather-icon {
+    margin: 0 0 0 -15px;
+}
