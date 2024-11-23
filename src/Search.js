@@ -12,6 +12,7 @@ export default function Search() {
                         placeholder="Search a Location"
                         aria-label="Search a Location"
                         aria-describedby="basic-addon2"
+                        autoFocus="on"
                     />
                     <span className="input-group-append">
                         <button
