@@ -1,5 +1,4 @@
 import React from "react";
-import axios from "axios";
 import City from "./City";
 import Temperature from "./Temperature";
 
